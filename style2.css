@@ -1,0 +1,93 @@
+div.send{
+    background-color:rgba(223, 223, 223, 0.849);
+    font-family: sans-serif;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 70px; 
+}
+
+ul.send_list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+p.style-text{
+    color: grey;
+}
+
+button.btn4{
+    border: none;
+    background-color: rgb(189, 186, 186);
+    padding: 15px ;
+    border-radius: 20px;
+}
+
+div.end-1{
+    background-color:white;
+    font-family: sans-serif;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 70px; 
+}
+
+div.social{
+    text-align: center;
+    
+}
+
+img.alinear{
+    vertical-align: middle;
+
+}
+
+div.end-2{
+    background-color: cyan;
+    font-family: sans-serif;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 70px; 
+}
+
+div.template{
+    text-align: center;
+}
+
+p.color-style{
+    color: grey;
+}
+
+ul.style-ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+
+div.life{
+    font-family: sans-serif;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 70px; 
+
+}
+
+ul.respon0{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+
+ul.caracter{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: sans-serif;
+}

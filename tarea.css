@@ -1,0 +1,115 @@
+
+div.Titulo{
+    text-align: center;
+    padding-bottom: 25px;
+
+    color: rgba(255, 255, 255, 0.575);
+}
+
+div.Menu_Nav{
+    background-image: url(./imagen/img.jpg);
+    text-align: center;
+    padding-bottom: 50px;
+    position: relative;
+    font-family: sans-serif;
+}
+
+div.MensaJe{
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(255, 255, 255);
+}
+
+div.MensaJe1{
+color: white;
+}
+
+button.btn1{
+    border: none;
+background-color: rgb(76, 228, 228);
+padding: 15px 32px;
+border-radius: 50px;
+}
+
+div.info{
+    background-color:rgba(223, 223, 223, 0.849);
+    font-family: sans-serif;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+div.caracter{
+    position: absolute;
+    left: 50px;
+}
+
+div.amateurs{
+    position: absolute;
+    right: 50px;
+}
+
+p.cen{
+    text-align: center;
+}
+
+img.profecional{
+    position: relative;
+    left: 166px;
+    
+}
+
+img.profecional2{
+    position: relative;
+    left: 1050px;
+    
+}
+
+img.profecional3{
+    position: relative;
+    left: 505px;
+    
+}
+
+
+button.btn2{
+    border: none;
+background-color: rgb(76, 228, 228);
+padding: 15px ;
+border-radius: 20px;
+}
+
+button.btn3{
+    border: none;
+background-color: rgb(76, 228, 228);
+padding: 15px ;
+border-radius: 20px;
+}
+
+div.supp{
+    background-color:rgba(223, 223, 223, 0.849);
+    font-family: sans-serif;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 70px;  
+}
+
+div.block{
+    position: static;
+    padding-bottom: 100px;
+}
+ul.list{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+a.link{
+    color: blue;
+}
+
+body{
+    background-color: rgb(255, 246, 255);
+}
